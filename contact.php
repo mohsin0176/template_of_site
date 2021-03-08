@@ -95,7 +95,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<h4 style="color: white">Contact Us</h4>
-					<p style="color: white">Address: Notun bazar,Gulshan-Dhaka, Mobile: 01928511049, Email: asadullahkpi@gmail.com</p>
+					<p style="color: white">Address:Mirpur-01,Shewrapara, Mobile: 01928511049, Email: akailgroup@gmail.com</p>
 				</div>
 				<div class="col-md-4">
 					<h4 style="color: white">Follow Us</h4>

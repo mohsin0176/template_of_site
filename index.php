@@ -55,22 +55,22 @@
 		      <!-- Slide One - Set the background image for this slide in the line below -->
 		      <div class="carousel-item active" style="background-image: url('image/slider4.jpeg')">
 		        <div class="carousel-caption d-none d-md-block">
-		          <h2 class="display-4">First Slide</h2>
-		          <p class="lead">This is a description for the first slide.</p>
+		          <h2 class="display-4">First Page</h2>
+		          <p class="lead">This is a description for the first page.</p>
 		        </div>
 		      </div>
 		      <!-- Slide Two - Set the background image for this slide in the line below -->
 		      <div class="carousel-item" style="background-image: url('image/slider5.jpg')">
 		        <div class="carousel-caption d-none d-md-block">
-		          <h2 class="display-4">Second Slide</h2>
-		          <p class="lead">This is a description for the second slide.</p>
+		          <h2 class="display-4">Second Page</h2>
+		          <p class="lead">This is a description for the second page.</p>
 		        </div>
 		      </div>
 		      <!-- Slide Three - Set the background image for this slide in the line below -->
 		      <div class="carousel-item" style="background-image: url('image/slider6.jpg')">
 		        <div class="carousel-caption d-none d-md-block">
-		          <h2 class="display-4">Third Slide</h2>
-		          <p class="lead">This is a description for the third slide.</p>
+		          <h2 class="display-4">Third Page</h2>
+		          <p class="lead">This is a description for the third page.</p>
 		        </div>
 		      </div>
 		    </div>
@@ -189,7 +189,7 @@
 			<div class="row">
 				<div class="col-md-8">
 					<h4 style="color: white">Contact Us</h4>
-					<p style="color: white">Address: Notun bazar,Gulshan-Dhaka, Mobile: 01928511049, Email: asadullahkpi@gmail.com</p>
+					<p style="color: white">Address:Mirpur-01,Shewrapara, Mobile: 01928511049, Email: akailgroup@gmail.com</p>
 				</div>
 				<div class="col-md-4">
 					<h4 style="color: white">Follow Us</h4>
@@ -206,7 +206,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<p style="color: white;padding: 50px 0px 10px 0px;">
-						Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear())</script> @ Popularsoft
+						Copyright &copy; <script type="text/javascript">document.write(new Date().getFullYear())</script> @ akailgroup
 					</p>
 				</div>
 			</div>
