@@ -89,7 +89,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
-					<h3 style="padding-top: 15px;padding-bottom: 5px;border-bottom: 1px solid #000000; width: 70%;">Mission and Vision</h3>
+					<h3 style="font-size:15px;font-weight:bold;padding-top: 15px;padding-bottom: 5px;border-bottom: 1px solid #000000; width: 70%;">Mission and Vision</h3>
 				</div>
 			</div>
 			<div class="row">
@@ -109,7 +109,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-3" style="padding-top: 15px;">
-					<h3 style="border-bottom: 1px solid #000;width: 85%">News and Events</h3>
+					<h3 style="font-size:15px;font-weight:bold;border-bottom: 1px solid #000;width: 85%">News and Events</h3>
 				</div>
 				<div class="col-md-9" style="padding-top: 15px;">
 					<table class="table table-striped table-bordered table-hover table-md table-warning">

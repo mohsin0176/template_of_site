@@ -5,6 +5,7 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css/customize.css">
 	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="shortcut icon" href="image/msn.jpg" type="image/x-icon">
 </head>
 <body>
 	<!-- Header Section -->
@@ -15,25 +16,25 @@
 				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse"><span class="navbar-toggler-icon"></span></button>
 				<div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
 					<div class="navbar-nav popular">
-						<a href="index.php" class="nav-item nav-link active">Home</a>
+						<a href="index.php" class="nav-item nav-link active"style="font-size: 10px;font-color:white">Home</a>
 						<div class="nav-item dropdown">
-							<a href="" class="nav-link dropdown-toggle" data-toggle="dropdown">About Us</a>
+							<a href="" class="nav-link dropdown-toggle" data-toggle="dropdown"style="font-size: 10px;font-color:white">About Us</a>
 							<div class="dropdown-menu" style="background: #BADDFB;">
-								<a href="aboutus.html" class="dropdown-item">About Us</a>
-								<a href="" class="dropdown-item">Mission</a>
-								<a href="" class="dropdown-item">Vision</a>
+								<a href="aboutus.html" class="dropdown-item"style="font-size: 10px;font-color:white">About Us</a>
+								<a href="" class="dropdown-item"style="font-size: 10px;font-color:white">Mission</a>
+								<a href="" class="dropdown-item"style="font-size: 10px;font-color:white">Vision</a>
 							</div>
 						</div>
-						<a href="" class="nav-item nav-link">News and Event</a>
-						<a href="contact.php" class="nav-item nav-link">Contact Us</a>
-						<a href="" class="nav-item nav-link">Login</a>
+						<a href="" class="nav-item nav-link"style="font-size: 10px;font-color:white">News and Event</a>
+						<a href="contact.php" class="nav-item nav-link"style="font-size: 10px;font-color:white">Contact Us</a>
+						<a href="" class="nav-item nav-link"style="font-size: 10px;font-color:white">Login</a>
 					</div>
 					<div class="navbar-nav">
 						<form class="form-inline">
 							<div class="input-group">
-								<input type="text" name="search" placeholder="Search">
+								<input type="text" name="search" placeholder="Search"style="font-size: 10px;font-color:white">
 								<div class="input-group-append">
-									<button type="button" class="btn btn-secondary">Search</button>
+									<button type="button" class="btn btn-secondary"style="font-size: 10px;font-color:white">Search</button>
 								</div>
 							</div>
 						</form>
