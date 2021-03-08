@@ -16,25 +16,25 @@
 				<button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse"><span class="navbar-toggler-icon"></span></button>
 				<div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
 					<div class="navbar-nav popular">
-						<a href="index.php" class="nav-item nav-link active" style="font-size: 10px">Home</a>
+						<a href="index.php" class="nav-item nav-link active" style="font-size: 10px;font-color:white">Home</a>
 						<div class="nav-item dropdown">
-							<a href="" class="nav-link dropdown-toggle" data-toggle="dropdown"style="font-size: 10px">About Us</a>
+							<a href="" class="nav-link dropdown-toggle" data-toggle="dropdown"style="font-size: 10px;font-color:white">About Us</a>
 							<div class="dropdown-menu" style="background: #BADDFB;">
-								<a href="aboutus.html" class="dropdown-item"style="font-size: 10px">About Us</a>
-								<a href="contact.php" class="dropdown-item"style="font-size: 10px">Mission</a>
-								<a href="aboutus.php" class="dropdown-item"style="font-size: 10px">Vision</a>
+								<a href="aboutus.html" class="dropdown-item"style="font-size: 10px;font-color:white">About Us</a>
+								<a href="contact.php" class="dropdown-item"style="font-size: 10px;font-color:white">Mission</a>
+								<a href="aboutus.php" class="dropdown-item"style="font-size: 10px;font-color:white">Vision</a>
 							</div>
 						</div>
-						<a href="" class="nav-item nav-link"style="font-size: 10px">News and Event</a>
-						<a href="contact.html" class="nav-item nav-link"style="font-size: 10px">Contact Us</a>
-						<a href="" class="nav-item nav-link"style="font-size: 10px">Login</a>
+						<a href="" class="nav-item nav-link"style="font-size: 10px;font-color:white">News and Event</a>
+						<a href="contact.html" class="nav-item nav-link"style="font-size: 10px;font-color:white">Contact Us</a>
+						<a href="" class="nav-item nav-link"style="font-size: 10px;font-color:white">Login</a>
 					</div>
 					<div class="navbar-nav">
 						<form class="form-inline">
 							<div class="input-group">
-								<input type="text" name="search" placeholder="Search">
+								<input type="text" name="search" placeholder="Search"style="font-size: 10px;font-color:white">
 								<div class="input-group-append">
-									<button type="button" class="btn btn-secondary"style="font-size: 10px">Search</button>
+									<button type="button" class="btn btn-secondary"style="font-size: 10px;font-color:white">Search</button>
 								</div>
 							</div>
 						</form>
